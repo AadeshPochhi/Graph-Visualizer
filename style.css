@@ -1,0 +1,33 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: teal;
+    
+}
+.q{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 1000;
+    color:black ;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.desp{
+    font-size: medium;
+    font-weight: 700;
+    color: azure;
+    margin: auto;
+}
+a{
+    font-size: medium;
+    margin: 0px;
+    color: azure;
+    text-decoration: none;
+    font-weight: bolder;
+}
+button{
+    border: none;
+}

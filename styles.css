@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    margin-left:500px;
+    background-color: #0a97c6;
+    color: azure;  
+
+}
+.links,.heads{
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;
+   text-decoration: none; 
+   color: azure;  
+   font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: azure;
+    margin: 4px;
+    
+}
